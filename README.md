@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+Here is a brief description of this initial practice with GitHub.
